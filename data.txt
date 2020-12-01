@@ -1,0 +1,3 @@
+Name: Khimo
+Age: 31
+Favorite color: blue.
